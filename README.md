@@ -19,6 +19,16 @@ rainy), An icon representing the weather condition, Humidity percentage, Wind sp
 
 - [x] ( Implement a basic responsive design that works on both mobile and tablet devices.)
 
-- [] (Add a "Refresh" button on the weather details screen to fetch updated weather data.)
+- [ ] (Add a "Refresh" button on the weather details screen to fetch updated weather data.)
 
 - [x] (Implement data persistence to save the last searched city.)
+
+
+## Screenshots
+
+<img width='32%' src="https://github.com/Moinak-Majumdar/iinternshala-go-india-stocks/assets/99950805/0b0ac192-e8ee-4300-8889-81e30c8a783e"/>
+<img width='32%' src="https://github.com/Moinak-Majumdar/iinternshala-go-india-stocks/assets/99950805/e0405bf8-b060-425e-8931-8ad0afb8e75f"/>
+<img width='32%' src="https://github.com/Moinak-Majumdar/iinternshala-go-india-stocks/assets/99950805/299b0984-c86e-4eb5-b4a3-fd01aca527ef"/>
+
+
+
