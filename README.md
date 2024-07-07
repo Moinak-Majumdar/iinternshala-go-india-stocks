@@ -30,5 +30,8 @@ rainy), An icon representing the weather condition, Humidity percentage, Wind sp
 <img width='32%' src="https://github.com/Moinak-Majumdar/iinternshala-go-india-stocks/assets/99950805/e0405bf8-b060-425e-8931-8ad0afb8e75f"/>
 <img width='32%' src="https://github.com/Moinak-Majumdar/iinternshala-go-india-stocks/assets/99950805/299b0984-c86e-4eb5-b4a3-fd01aca527ef"/>
 
-
+### Run the app
+  [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
+     alt="Download now"
+     height="50">](https://github.com/Moinak-Majumdar/iinternshala-go-india-stocks/releases)
 
